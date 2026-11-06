@@ -1,0 +1,50 @@
+## Información de la habilidad 
+**Nombre:** Transcrip-audio-obsidian
+**Descripción:** Esta habilidad es usada para tomar transcripciones realizadas en clase de forma que se puedan hacer una recopilación estructurada de los temas vistos, esta habilidad debe usarse para asegurar una claridad y entendimiento de los diferentes contenidos vistos en clase en un formato de texto preciso, ligero, fácil de entender y de navegar. 
+
+## Transcript-Audio-obsidian 
+Una habilidad que transforma grabaciones de clase de forma natural a guias de estudio con un formato estructurado que permite volver a navegar sobre los contenidos desarrollados de forma fácil, adicionalmente esta habilidad entrega la transcripción en un formato optimizado para la lectura por parte del usuario, ideal para transcripciones que han perdido su estilo de conversación. 
+### Cuando usar y como usar 
+Esta habilidad debe usarse para generar guías de estudio, resúmenes, listado de actividades y otros pendientes derivados de una reunión o cátedra de contenidos cuando esta halla perdido su formato o se quiera extraer la información más importante. 
+
+
+## Nucleo de instrucciones 
+
+### Procesamiento del texto
+Todos los textos deberán ser procesados para facilitar la elegibilidad de igual forma se deberá mantener la estructura cronológica de la conversación pero al mismo tiempo enmarcando cuáles son los diferentes aspectos como los temas, ejemplos vistos, eh, referencias citadas, preguntas discutidas y comentarios generales realizados durante la grabación. 
+
+Teniendo en cuenta que es una grabación, es importante eliminar las muletillas manteniendo una coherencia gramatical que permita sintetizar la información más importante con un alto nivel de fidelidad pero sin los errores o redundancias de la presentación 
+
+### Recomendaciones de transcripción
+- **Texto limpio / Verbatim limpio (No literal):**
+	- Se omiten las muletillas, repeticiones y falsos inicios para que el texto sea más fácil de leer.
+	- Se corrige ligeramente la gramática sin alterar el sentido de las palabras.
+	- Es el formato más común para entrevistas, podcasts, videos corporativos y conferencias
+ 
+- **Identificación del hablante:** 
+	- Etiquetar quién habla cada vez que interviene (ej. `Entrevistador:` o `Hablante 1:`)
+	- Identificar los hablantes con **negrita** 
+
+- **Marcas de tiempo (Timestamps):** Se insertan en intervalos regulares (por ejemplo, cada 2 minutos) o cada vez que cambia el orador para facilitar la búsqueda en el audio. En caso de no tener marcas de tiempo ignorar este paso. 
+  
+- **Acotaciones contextuales:** Uso de corchetes para señalar sonidos no verbales o partes que no se entienden (ej. `[inaudible]`, `[silencio]`)
+### Retrospectiva 
+Ten en cuenta que las transcripciones sean fieles a lo hablado, resalta en especial los ejemplos y conceptos vistos, evita ser parafraseos extensos y donde puedas utilizar frases literales de la conversación, úsalas. 
+
+### Formato de entrega 
+---
+Cuadro de propiedades 
+- Formato
+- Tags
+- Descripción
+--- 
+	# Resumen ejecutivo 
+	# Tema 1: 
+	## Puntos claves y comentarios tema 1
+	# Tema 2
+	## Puntos claves y comentarios tema 2 
+	...
+	# Pendientes y pasos a seguir 
+	# Transcripción ordenada de audio 
+	/ Aplicar las recomendaciones de transcripcion
+---
